@@ -3,7 +3,7 @@ b = float(input("Enter The Value of b:- "))
 print(a,b)
 
 c = a + b
-d = a - b
+d = a + b
 print(f'The Sum of {a} and {b} Is  {c}')
 
 print(f'the subtraction of {a} and {b} is {d} ')
