@@ -8,7 +8,7 @@ print(f'The Sum of {a} and {b} Is  {c}')
 
 print(f'the subtraction of {a} and {b} is {d} ')
 
-e = a * b
+e = a / b
 print(f'the multiplication of {a} and {b} is {e}')
 f = a / b
 print(f'the division of {a} and {b} is {f}')
